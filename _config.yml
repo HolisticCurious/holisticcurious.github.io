@@ -93,7 +93,7 @@ yat:
 # spacegrey: #353535
 # snowwhite: #ffffff
 #
-# theme_color: snowwhite
+# theme_color: coolblack
 #
 # Custom color as below:
 # theme_color: "#882250"
@@ -131,8 +131,8 @@ yat:
 # Page default value
 # defaults:
 #   home:
-#     heading: "Your awesome heading"
-#     subheading: "Your awesome subheading"
+#     heading: "Clueless"
+#     subheading: "Dump for thoughts and other things"
 #     banner: "Your image url"
 
 # Excerpt size setting
