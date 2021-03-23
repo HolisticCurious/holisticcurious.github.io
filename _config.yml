@@ -24,14 +24,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Holistic  Curious"
-email: teresa.parreira@tecnico.ulisboa.pt
-author: "Maria Teresa Parreira"
-#copyright: "Copyright © 1970-2010"
-description: "A  dump  for thoughts."
-#twitter: https://twitter.com/stephenvinouze
-linkedin: https://www.linkedin.com/in/mariateresaparreira/
-github: https://github.com/HolisticCurious
+title: Your awesome title
+email: your-email@domain.com
+author: GitHub User
+copyright: Copyright © 1970-2010
+description: >- # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: "" # the favicon for your site
@@ -92,7 +92,7 @@ yat:
 # spacegrey: #353535
 # snowwhite: #ffffff
 #
-theme_color: "coolblack"
+# theme_color: snowwhite
 #
 # Custom color as below:
 # theme_color: "#882250"
@@ -128,11 +128,11 @@ theme_color: "coolblack"
 #   - about.md
 
 # Page default value
- defaults:
-   home:
-     heading: "Clueless"
-     subheading: "Dump for thoughts and other things"
-     banner: "Your image url"
+# defaults:
+#   home:
+#     heading: "Your awesome heading"
+#     subheading: "Your awesome subheading"
+#     banner: "Your image url"
 
 # Excerpt size setting
 # excerpt_size: 350
