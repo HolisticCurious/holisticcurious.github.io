@@ -62,9 +62,13 @@ yat:
 #   - lang: en
 #     text: English
 #
+#   - lang: pt
+#     img: https://www.countryflags.io/pt/flat/64.png
+#     text: Portuguese
+#
 #   - lang: fr
 #     img: https://www.countryflags.io/fr/flat/64.png
-#     text: Franch
+#     text: French
 #
 #   - lang: zh-CN
 #     img: https://www.countryflags.io/cn/flat/64.png
@@ -73,14 +77,6 @@ yat:
 #   - lang: zh-TW
 #     img: https://www.countryflags.io/tw/flat/64.png
 #     text: Chinese(Traditional)
-#
-#   - lang: ja
-#     img: https://www.countryflags.io/jp/flat/64.png
-#     text: Japan
-#
-#   - lang: ko
-#     img: https://www.countryflags.io/kr/flat/64.png
-#     text: Korean
 #
 #   - lang: ru
 #     img: https://www.countryflags.io/ru/flat/64.png
