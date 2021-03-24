@@ -11,7 +11,7 @@ sidebar: []
 
 *Inicialmente publicado no [Shifter](https://shifter.sapo.pt/2020/08/o-homem-e-o-resto/).*
 
-# A conservação de ecossistemas, sustentabilidade do nosso desenvolvimento e tratamento ético de outras espécies estão entre os inúmeros temas que pedem consideração na tomada de decisões sobre o futuro da Humanidade. Ao estabelecer um código de valores e curso de ação universais, como selecionar e priorizar as causas que legitimamente merecem o foco social e político?
+### A conservação de ecossistemas, sustentabilidade do nosso desenvolvimento e tratamento ético de outras espécies estão entre os inúmeros temas que pedem consideração na tomada de decisões sobre o futuro da Humanidade. Ao estabelecer um código de valores e curso de ação universais, como selecionar e priorizar as causas que legitimamente merecem o foco social e político?
 
 No separador “Natureza e Biodiversidade” do [website](https://ec.europa.eu/environment/nature/biodiversity/intro/index_en.htm) da Comissão Europeia, a resposta à questão
 “Porque precisamos de proteger a Biodiversidade?” é introduzida com uma citação do Prof. E.O. Wilson: *“Nós precisamos das formigas para sobreviver, elas não precisam de nós”*.
