@@ -5,7 +5,7 @@ subheading: Shifter
 author: Maria Teresa Parreira
 categories: published
 banner: "/assets/images/banners/alicerces-de-vidro.jpg"
-tags: [opinion, pt]
+tags: [opinion,pt]
 sidebar: []
 ---
 
