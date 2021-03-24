@@ -5,7 +5,7 @@ subheading: Diferencial
 author: Maria Teresa Parreira
 categories: published
 banner: "/assets/images/banners/imagem.png"
-tags: [academia,opinion,pt]
+tags: [opinion,pt]
 sidebar: []
 ---
 
