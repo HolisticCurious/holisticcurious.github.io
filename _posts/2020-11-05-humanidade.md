@@ -4,7 +4,7 @@ title: Então sobreviveste a uma pandemia? Eis outras formas de eliminar a Human
 subheading: Diferencial
 author: Maria Teresa Parreira
 categories: published
-banner: "/assets/images/banners/texto-dif.jpg"
+banner: "/assets/images/banners/texto-dif.png"
 tags: [future,opinion, pt]
 sidebar: []
 ---
