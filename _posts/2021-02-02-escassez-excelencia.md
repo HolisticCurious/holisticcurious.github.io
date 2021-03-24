@@ -38,6 +38,6 @@ Este minar de bons desempenhos é sentido pelos estudantes como sabotagem da par
 
 Independentemente da importância relativa das “boas notas” na faculdade, os alunos merecem sentir que escalaram a íngreme montanha que é o curso de uma forma devidamente reconhecida pela sua *alma mater*. A exigência não tem de baixar para alimentar o ego dos estudantes, mas deve abdicar-se desse elitismo forçado que contorna o valor da aprendizagem. Sem dúvida, a fraude é severamente condenável; porém, para o IST, a excelência também.
 
-Não pedimos que nos forneçam o peixe. Mas, se vão ensinar-nos a pescar, que não nos roubem a cana quando notam que estamos a ser bem-sucedidos.
+Não pedimos que nos forneçam o peixe. Mas, se vão ensinar-nos a pescar, que não nos roubem a cana quando notam que estamos a ser bem-sucedidos. 
 
 
