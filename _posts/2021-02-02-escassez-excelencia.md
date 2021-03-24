@@ -9,7 +9,7 @@ tags: [opinion,pt]
 sidebar: []
 ---
 
-*Inicialmente publicado no [Diferencial](https://diferencial.tecnico.ulisboa.pt/tecnico/a-escassez-promovida-da-excelencia/). e no [Crónico](https://www.jornalcronico.com/post/a-escassez-promovida-da-excel%C3%AAncia).
+*Inicialmente publicado no [Diferencial](https://diferencial.tecnico.ulisboa.pt/tecnico/a-escassez-promovida-da-excelencia/) e no [Crónico](https://www.jornalcronico.com/post/a-escassez-promovida-da-excel%C3%AAncia).
 
 
 ### O sistema de ensino do Instituto Superior Técnico pretende ensinar-nos a pescar. Mas faz questão que, no processo, encontremos mares tempestuosos, peixe escasso e que atinjamos a costa sobre os destroços do barco onde partimos.
