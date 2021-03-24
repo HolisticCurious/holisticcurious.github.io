@@ -3,7 +3,7 @@ layout: post
 title: A Escassez (promovida) da Excelência
 subheading: Diferencial
 author: Maria Teresa Parreira
-categories: published, diferencial,crónico
+categories: published
 banner: "/assets/images/banners/imagem.png"
 tags: [academia,opinion,pt]
 sidebar: []
