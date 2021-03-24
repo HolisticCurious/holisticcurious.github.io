@@ -5,7 +5,7 @@ subheading: Shifter
 author: Maria Teresa Parreira
 categories: published
 banner: "/assets/images/banners/antropocentrismo.png"
-tags: [opinion, pt, sustainability]
+tags: [opinion,pt,sustainability]
 sidebar: []
 ---
 
