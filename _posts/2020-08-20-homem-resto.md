@@ -11,9 +11,7 @@ sidebar: []
 
 *Inicialmente publicado no [Shifter](https://shifter.sapo.pt/2020/08/o-homem-e-o-resto/).*
 
-##A conservação de ecossistemas, sustentabilidade do nosso desenvolvimento e tratamento ético de outras espécies estão entre os inúmeros temas que pedem consideração
-na tomada de decisões sobre o futuro da Humanidade. Ao estabelecer um código de valores e curso de ação universais, como selecionar e priorizar as causas que legitimamente
-merecem o foco social e político?##
+## A conservação de ecossistemas, sustentabilidade do nosso desenvolvimento e tratamento ético de outras espécies estão entre os inúmeros temas que pedem consideração na tomada de decisões sobre o futuro da Humanidade. Ao estabelecer um código de valores e curso de ação universais, como selecionar e priorizar as causas que legitimamente merecem o foco social e político?
 
 No separador “Natureza e Biodiversidade” do [website](https://ec.europa.eu/environment/nature/biodiversity/intro/index_en.htm) da Comissão Europeia, a resposta à questão
 “Porque precisamos de proteger a Biodiversidade?” é introduzida com uma citação do Prof. E.O. Wilson: *“Nós precisamos das formigas para sobreviver, elas não precisam de nós”*.
@@ -27,7 +25,7 @@ como uma necessidade urgente e como uma responsabilidade individual e coletiva.
 Descortinando, contudo, as razões que motivam a súbita emergência deste assunto no panorama político, corporativo e mesmo na generalidade da convivência social,
 surge a observação de que estas iniciativas não passam de novas formas de alimentar interesses próprios. **Atualmente, o posicionamento de uma empresa ou partido político 
 como possuidor de princípios que se alinham com perspetivas de sustentabilidade e mínimos impactos ambientais não deixa de ser, em última instância, um golpe de marketing 
-ou propaganda. Mesmo descurando os múltiplos casos de _greenwashing_** (promoção de uma empresa, governo ou organização através da falsa associação a causas ecológicas e ambientais,
+ou propaganda. Mesmo descurando os múltiplos casos de _greenwashing_ (promoção de uma empresa, governo ou organização através da falsa associação a causas ecológicas e ambientais,
 não sendo na verdade adotadas medidas reais com vista à minimização ou resolução destes problemas), o olhar público tenderá sempre a aprovar instituições que destaquem o
 seu papel como aliados na luta contra a devastação dos ecossistemas.**
 
@@ -60,10 +58,10 @@ descrita como interesseira e arrivista, agindo sob um instinto autocentrado e se
 Acrescente-se a esta reflexão mais uma perspetiva. Num dos primeiros websites que surgem quando as palavras-chave da pesquisa são Hierarchy of Species (hierarquia das espécies),
 a posição privilegiada dos Homens em relação a todas as outras espécies é justificada começando por enumerar o que apelidam de *“crenças amplamente defendidas”*:
 
-  *os humanos são, de uma perspetiva evolucional, mais avançados que outras criaturas;
-  *os humanos possuem capacidades superiores e classificam-se mais alto de acordo com inúmeras métricas de inteligência;
-  *os humanos possuem maior potencial para o sucesso e desenvolvimento que outras espécies;
-  *os humanos possuem um conceito de moral que é único e outros seres-vivos não se regem segundo códigos morais.
+  * os humanos são, de uma perspetiva evolucional, mais avançados que outras criaturas;
+  * os humanos possuem capacidades superiores e classificam-se mais alto de acordo com inúmeras métricas de inteligência;
+  * os humanos possuem maior potencial para o sucesso e desenvolvimento que outras espécies;
+  * os humanos possuem um conceito de moral que é único e outros seres-vivos não se regem segundo códigos morais.
   
 De um ponto de vista objetivo, e mesmo tendo em conta o viés a que somos sujeitos dado avaliarmos a nossa espécie segundo critérios que nós próprios desenvolvemos, 
 o leitor concordará provavelmente com as afirmações referidas acima (o que não implica considerar as mesmas premissas válidas para a conclusão da supremacia humana, note-se).
