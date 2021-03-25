@@ -5,7 +5,7 @@ subheading: Crónico
 author: Maria Teresa Parreira
 categories: published
 banner: "/assets/images/banners/curadoriavirtual_blue.png"
-tags: [tecnology,opinion,pt]
+tags: [technology,future,opinion,pt]
 sidebar: []
 ---
 
